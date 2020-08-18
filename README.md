@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything related to Flask, Java EE, ReactJS or NodeJS
 - 📫 How to reach me: [Twitter @daitya961](https://twitter.com/daitya961), [LinkedIn @aditya109](https://www.linkedin.com/in/aditya109/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Loves to listen to horror stories while coding
+- ⚡ Fun fact: Loves to listen to horror stories while coding and playing competitive FPS and hack and slash action-adventure video game
 
 ##  Languages and Tech
 <img height="30" src="https://github.com/aditya109/aditya109/blob/master/assets/icons/python-transparent-background.png" />&nbsp;&nbsp;<img height="30" src="https://github.com/aditya109/aditya109/blob/master/assets/icons/188-1882559_python-flask-hd-png-download.png" />&nbsp;&nbsp;<img height="30" src="https://github.com/aditya109/aditya109/blob/master/assets/icons/174-1746684_java-java-logo-black-png-transparent-png.png" />&nbsp;&nbsp;<img height="30" src="https://github.com/aditya109/aditya109/blob/master/assets/icons/1280px-Node.js_logo.svg.png" />&nbsp;&nbsp;<img height="30" src="https://github.com/aditya109/aditya109/blob/master/assets/icons/Go-Logo_Blue.png" />
