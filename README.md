@@ -1,16 +1,14 @@
-<h2> Hi, I'm Aditya!</h2>
+<h2> Hi, I'm Aditya! <img height="30"  src="https://media.giphy.com/media/lTMEqFHbSAHsOIB3te/giphy.gif"/></h2> 
 <img align='right' src="https://media.giphy.com/media/l0HlOdyGudJClwLgk/giphy.gif" width="230">
 </em></p>
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on upgrade **v1.2** of [bank-reconciliation-statement-validator](https://github.com/aditya109/bank-reconcilation-statement-validator)
 - 🌱 I’m currently learning Azure DevOps
 
 - 💬 Ask me about anything related to Flask, Java EE, ReactJS or NodeJS
-- 📫 How to reach me: [Twitter @daitya961](https://twitter.com/daitya961), [LinkedIn @aditya109](https://www.linkedin.com/in/aditya109/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Loves to listen to horror stories while coding and playing competitive FPS and hack and slash action-adventure video game
+- ⚡ Fun fact: Loves to listen to horror stories while coding and playing **tactical FPS** and **Hack-N-Slash Action-Adventure** video game
 
 ##  Languages and Tech
 <img height="30" src="https://github.com/aditya109/aditya109/blob/master/assets/icons/python-transparent-background.png" />&nbsp;&nbsp;<img height="30" src="https://github.com/aditya109/aditya109/blob/master/assets/icons/188-1882559_python-flask-hd-png-download.png" />&nbsp;&nbsp;<img height="30" src="https://github.com/aditya109/aditya109/blob/master/assets/icons/174-1746684_java-java-logo-black-png-transparent-png.png" />&nbsp;&nbsp;<img height="30" src="https://github.com/aditya109/aditya109/blob/master/assets/icons/1280px-Node.js_logo.svg.png" />&nbsp;&nbsp;<img height="30" src="https://github.com/aditya109/aditya109/blob/master/assets/icons/Go-Logo_Blue.png" />
@@ -25,13 +23,12 @@ Here are some ideas to get you started:
 
 ## Tools and IDE
 
-
-
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=aditya109&show_icons=true&theme=synthwave) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya109&layout=compact&theme=synthwave)](https://github.com/aditya109/github-readme-stats)
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+ 
+ 📫 How to reach me: 
+ [<img height="40" src="https://media.giphy.com/media/M9O6ePwNJ58UMF1Rvq/giphy.gif" />](https://twitter.com/daitya961) 
+ [<img height="40" src="https://media.giphy.com/media/TF1ClftwWzMvugvVTl/giphy.gif" />](https://www.linkedin.com/in/aditya109/)
 
-
-[1]: https://twitter.com/daitya961/
-[2]: https://www.linkedin.com/in/aditya109/
