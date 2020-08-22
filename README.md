@@ -1,14 +1,14 @@
 <h1> Hi, I'm Aditya! <img height="50"  src="https://media.giphy.com/media/lTMEqFHbSAHsOIB3te/giphy.gif"/></h1> 
 <img align='right' src="https://media.giphy.com/media/2YaMsGWSpHQ7sIsiYZ/giphy.gif" width="230">
-</em></p>
-
+</em></p> 
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/daitya961?color=1da1f2&logo=Twitter&style=flat-square">
 
 - 🔭 I’m currently working on upgrade **v1.2** of [bank-reconciliation-statement-validator](https://github.com/aditya109/bank-reconcilation-statement-validator)
 - 🌱 I’m currently learning Azure DevOps
 
 - 💬 Ask me about anything related to Flask, Java EE, ReactJS or NodeJS
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Loves to listen to horror stories while coding and playing **tactical FPS** and **Hack-N-Slash Action-Adventure** video game
+- ✨ Fun fact: Loves to listen to horror stories while coding and playing **tactical FPS** and **Hack-N-Slash Action-Adventure** video game
 
 <h2>My Tech Stack  ¯\_(ツ)_/¯</h2>
 
@@ -38,6 +38,10 @@
 [![Goodreads API Project](https://github-readme-stats-theta-eight.vercel.app/api/pin/?username=aditya109&repo=goodreads-api-project&show_icons=true&theme=synthwave)](https://github.com/aditya109/goodreads-api-project)
 [![CS-Bots](https://github-readme-stats-theta-eight.vercel.app/api/pin/?username=aditya109&repo=CS-Bot&show_icons=true&theme=synthwave)](https://github.com/aditya109/CS-Bot)
 [![Python Advance Concepts](https://github-readme-stats-theta-eight.vercel.app/api/pin/?username=aditya109&repo=python-adv-concepts&show_icons=true&theme=synthwave)](https://github.com/aditya109/python-adv-concepts)
+
+⚡ Recent Activity 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 📫 How to reach me:
 
