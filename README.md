@@ -34,13 +34,10 @@
 <h2 style="text-align: center;">Show some ❤ by ⭐ my repos:</h2>
 
 [![Upgrade Controller](https://github-readme-stats-theta-eight.vercel.app/api/pin/?username=aditya109&repo=upgrade-controller&show_icons=true&theme=synthwave)](https://github.com/aditya109/upgrade-controller)
-[![Bank Reconcilation Statement Validator](https://github-readme-stats-theta-eight.vercel.app
-/api/pin/?username=aditya109&repo=bank-reconcilation-statement-validator&show_icons=true&theme=synthwave)](https://github.com/aditya109/bank-reconcilation-statement-validator)
-[![Goodreads API Project](https://github-readme-stats-theta-eight.vercel.app
-/api/pin/?username=aditya109&repo=goodreads-api-project&show_icons=true&theme=synthwave)](https://github.com/aditya109/goodreads-api-project)
+[![Bank Reconcilation Statement Validator](https://github-readme-stats-theta-eight.vercel.app/api/pin/?username=aditya109&repo=bank-reconcilation-statement-validator&show_icons=true&theme=synthwave)](https://github.com/aditya109/bank-reconcilation-statement-validator)
+[![Goodreads API Project](https://github-readme-stats-theta-eight.vercel.app/api/pin/?username=aditya109&repo=goodreads-api-project&show_icons=true&theme=synthwave)](https://github.com/aditya109/goodreads-api-project)
 [![CS-Bots](https://github-readme-stats-theta-eight.vercel.app/api/pin/?username=aditya109&repo=CS-Bot&show_icons=true&theme=synthwave)](https://github.com/aditya109/CS-Bot)
-[![Python Advance Concepts](https://github-readme-stats-theta-eight.vercel.app
-/api/pin/?username=aditya109&repo=python-adv-concepts&show_icons=true&theme=synthwave)](https://github.com/aditya109/python-adv-concepts)
+[![Python Advance Concepts](https://github-readme-stats-theta-eight.vercel.app/api/pin/?username=aditya109&repo=python-adv-concepts&show_icons=true&theme=synthwave)](https://github.com/aditya109/python-adv-concepts)
 
 📫 How to reach me:
 
