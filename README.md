@@ -26,13 +26,19 @@
 
 <img height="40" src="https://cdn.svgporn.com/logos/pycharm.svg" />&nbsp;&nbsp;<img height="40" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />&nbsp;&nbsp;<img height="40" src="https://cdn.svgporn.com/logos/intellij-idea.svg" />&nbsp;&nbsp;<img height="40" src="https://cdn.svgporn.com/logos/webstorm.svg" />
 
-![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=aditya109&show_icons=true&theme=synthwave) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya109&layout=compact&theme=synthwave)](https://github.com/aditya109/github-readme-stats)
+<h2>Stats and Stuff (´・ω・`)</h2>
 
+![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=aditya109&show_icons=true&theme=synthwave) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya109&layout=compact&theme=synthwave)](https://github.com/aditya109/github-readme-stats)
+
+<h2>Show some ❤ by starring my repos: </h2>
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+📫 How to reach me:
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
  
- 📫 How to reach me: 
- 
- [<img height="20" src="https://cdn.svgporn.com/logos/twitter.svg" />](https://twitter.com/daitya961) 
- [<img height="20" src="https://cdn.svgporn.com/logos/linkedin.svg" />](https://www.linkedin.com/in/aditya109/)
+[<img height="20" src="https://cdn.svgporn.com/logos/twitter.svg" />](https://twitter.com/daitya961) 
+[<img height="20" src="https://cdn.svgporn.com/logos/linkedin.svg" />](https://www.linkedin.com/in/aditya109/)
 
