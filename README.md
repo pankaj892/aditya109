@@ -1,5 +1,5 @@
 <h1> Hi, I'm Aditya! <img height="50"  src="https://media.giphy.com/media/lTMEqFHbSAHsOIB3te/giphy.gif"/></h1> 
-<img align='right' src="https://media.giphy.com/media/l0HlOdyGudJClwLgk/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/l0ExjkqeBdql1plx6/giphy.gif" width="230">
 </em></p>
 
 
