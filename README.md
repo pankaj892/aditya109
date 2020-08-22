@@ -17,9 +17,9 @@
 
 <code><img height="30" src="https://cdn.svgporn.com/logos/mysql.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/postgresql.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/mongodb.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/firebase.svg" /><code/>
 
-<code><img height="30" src="https://github.com/aditya109/aditya109/blob/master/assets/icons/kisspng-react-javascript-angularjs-ionic-atom-5b154be6709500.6532453515281223424611.jpg" />&nbsp;&nbsp;<img height="30" src="https://github.com/aditya109/aditya109/blob/master/assets/icons/0-U2DmhXYumRyXH6X1.png" />&nbsp;&nbsp;<img height="30" src="https://github.com/aditya109/aditya109/blob/master/assets/icons/1216733.svg" />&nbsp;&nbsp;<img height="35" src="https://github.com/aditya109/aditya109/blob/master/assets/icons/5351_-_CSS3-512.webp" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/javascript.svg" /><code/>
+<code><img height="30" src="https://cdn.svgporn.com/logos/react.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/redux.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/html-5.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/sass.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/css-3.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/javascript.svg" /><code/>
 
-<code><img height="30" src="https://github.com/aditya109/aditya109/blob/master/assets/icons/png-transparent-github-computer-icons-repository-version-control-github-media-fork-git.png" />&nbsp;&nbsp;<img height="30" src="https://github.com/aditya109/aditya109/blob/master/assets/icons/873120.png" />&nbsp;&nbsp;<img height="30" src="https://github.com/aditya109/aditya109/blob/master/assets/icons/images.jfif"><code/>
+<code><img height="30" src="https://cdn.svgporn.com/logos/git-icon.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/heroku-icon.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/travis-ci.svg"><code/>
 
 ## Tools and IDE
 
@@ -29,6 +29,6 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
  
  📫 How to reach me: 
- [<img height="40" src="https://media.giphy.com/media/M9O6ePwNJ58UMF1Rvq/giphy.gif" />](https://twitter.com/daitya961) 
- [<img height="40" src="https://media.giphy.com/media/TF1ClftwWzMvugvVTl/giphy.gif" />](https://www.linkedin.com/in/aditya109/)
+ [<img height="40" src="https://cdn.svgporn.com/logos/twitter.svg" />](https://twitter.com/daitya961) 
+ [<img height="40" src="https://cdn.svgporn.com/logos/linkedin.svg" />](https://www.linkedin.com/in/aditya109/)
 
