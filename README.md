@@ -10,7 +10,8 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Loves to listen to horror stories while coding and playing **tactical FPS** and **Hack-N-Slash Action-Adventure** video game
 
-<h2>Languages and Tech </h2>
+<h2>My Tech Stack  ¯\_(ツ)_/¯</h2>
+
 <img height="30" src="https://cdn.svgporn.com/logos/python.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/flask.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/java.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/gopher.svg" />
 
 <img height="30" src="https://github.com/aditya109/aditya109/blob/master/assets/icons/1_uHzooF1EtgcKn9_XiSST4w.png" />&nbsp;&nbsp;<img height="30" src="https://github.com/aditya109/aditya109/blob/master/assets/icons/grpc-icon-color.png" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/graphql.svg" />
@@ -21,7 +22,8 @@
 
 <img height="30" src="https://cdn.svgporn.com/logos/git-icon.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/heroku-icon.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/travis-ci.svg">
 
-<h2>Tools and IDE</h2>
+<h2>Tools and IDE ʕ•́ᴥ•̀ʔっ♡</h2>
+<img height="40" src="https://cdn.svgporn.com/logos/pycharm.svg" />&nbsp;&nbsp;<img height="40" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />&nbsp;&nbsp;<img height="40" src="https://cdn.svgporn.com/logos/intellij-idea.svg" />&nbsp;&nbsp;<img height="40" src="https://cdn.svgporn.com/logos/webstorm.svg" />
 
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=aditya109&show_icons=true&theme=synthwave) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya109&layout=compact&theme=synthwave)](https://github.com/aditya109/github-readme-stats)
 
