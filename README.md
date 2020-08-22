@@ -1,4 +1,4 @@
-<h2> Hi, I'm Aditya! <img height="30"  src="https://media.giphy.com/media/lTMEqFHbSAHsOIB3te/giphy.gif"/></h2> 
+<h1> Hi, I'm Aditya! <img height="30"  src="https://media.giphy.com/media/lTMEqFHbSAHsOIB3te/giphy.gif"/></h1> 
 <img align='right' src="https://media.giphy.com/media/l0HlOdyGudJClwLgk/giphy.gif" width="230">
 </em></p>
 
@@ -10,18 +10,18 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Loves to listen to horror stories while coding and playing **tactical FPS** and **Hack-N-Slash Action-Adventure** video game
 
-##  Languages and Tech
-<code><img height="30" src="https://cdn.svgporn.com/logos/python.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/flask.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/java.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/gopher.svg" /><code/>
+<h2>Languages and Tech </h2>
+<img height="30" src="https://cdn.svgporn.com/logos/python.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/flask.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/java.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/gopher.svg" />
 
-<code><img height="30" src="https://github.com/aditya109/aditya109/blob/master/assets/icons/1_uHzooF1EtgcKn9_XiSST4w.png" />&nbsp;&nbsp;<img height="30" src="https://github.com/aditya109/aditya109/blob/master/assets/icons/grpc-icon-color.png" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/graphql.svg" /><code/>
+<img height="30" src="https://github.com/aditya109/aditya109/blob/master/assets/icons/1_uHzooF1EtgcKn9_XiSST4w.png" />&nbsp;&nbsp;<img height="30" src="https://github.com/aditya109/aditya109/blob/master/assets/icons/grpc-icon-color.png" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/graphql.svg" />
 
-<code><img height="30" src="https://cdn.svgporn.com/logos/mysql.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/postgresql.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/mongodb.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/firebase.svg" /><code/>
+<img height="30" src="https://cdn.svgporn.com/logos/mysql.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/postgresql.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/mongodb.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/firebase.svg" />
 
-<code><img height="30" src="https://cdn.svgporn.com/logos/react.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/redux.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/html-5.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/sass.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/css-3.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/javascript.svg" /><code/>
+<img height="30" src="https://cdn.svgporn.com/logos/react.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/redux.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/html-5.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/sass.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/css-3.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/javascript.svg" />
 
-<code><img height="30" src="https://cdn.svgporn.com/logos/git-icon.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/heroku-icon.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/travis-ci.svg"><code/>
+<img height="30" src="https://cdn.svgporn.com/logos/git-icon.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/heroku-icon.svg" />&nbsp;&nbsp;<img height="30" src="https://cdn.svgporn.com/logos/travis-ci.svg">
 
-## Tools and IDE
+<h2>Tools and IDE</h2>
 
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=aditya109&show_icons=true&theme=synthwave) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya109&layout=compact&theme=synthwave)](https://github.com/aditya109/github-readme-stats)
 
