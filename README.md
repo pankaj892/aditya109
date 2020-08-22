@@ -40,8 +40,8 @@
 [![Python Advance Concepts](https://github-readme-stats-theta-eight.vercel.app/api/pin/?username=aditya109&repo=python-adv-concepts&show_icons=true&theme=synthwave)](https://github.com/aditya109/python-adv-concepts)
 
 ⚡ Recent Activity 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 📫 How to reach me:
 
