@@ -41,13 +41,6 @@
 
 ⚡ Recent Activity 
 <!--START_SECTION:waka-->
-```text
-JavaScript   16 hrs 4 mins   ██████████░░░░░░░░░░░░░░░   39.65 % 
-CSS          12 hrs 32 mins  ███████▓░░░░░░░░░░░░░░░░░   30.93 % 
-Java         4 hrs 32 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-HTML         2 hrs 59 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-JSON         1 hr 49 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-```
 <!--END_SECTION:waka-->
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
