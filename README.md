@@ -8,7 +8,7 @@
 
 - 💬 Ask me about anything related to Flask, Java EE, ReactJS or NodeJS
 - 😄 Pronouns: He/His
-- ✨ Fun fact: Loves to listen to horror stories while coding and playing **tactical FPS** and **Hack-N-Slash Action-Adventure** video game
+- ✨ Fun fact: Loves to listen to horror stories while coding and playing **tactical FPS** and watching **Anime** 	(°▽°)/
 
 <h2>My Tech Stack  ¯\_(ツ)_/¯</h2>
 
